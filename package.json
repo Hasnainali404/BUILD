@@ -1,0 +1,12 @@
+{
+  "name": "build-website",
+  "version": "1.0.0",
+  "description": "Website starter with search functionality",
+  "scripts": {
+    "dev": "live-server --port=8000 --no-browser",
+    "start": "live-server --port=8000"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
